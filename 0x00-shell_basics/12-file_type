@@ -1,4 +1,2 @@
 #!/bin/bash
-touch iamafile
-mv iamafile /tmp/
-ls -l
+ls -l /tmp/iamafile
